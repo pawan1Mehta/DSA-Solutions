@@ -175,6 +175,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/pawan-87/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/0261-graph-valid-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/0366-find-leaves-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pawan-87/DSA-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -190,6 +191,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/pawan-87/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/0261-graph-valid-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pawan-87/DSA-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -506,6 +508,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/pawan-87/DSA-Solutions/tree/master/0207-course-schedule) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/pawan-87/DSA-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pawan-87/DSA-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/pawan-87/DSA-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -530,4 +533,8 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pawan-87/DSA-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/pawan-87/DSA-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
