@@ -77,6 +77,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0422-valid-word-square](https://github.com/pawan-87/DSA-Solutions/tree/master/0422-valid-word-square) |
 | [0435-non-overlapping-intervals](https://github.com/pawan-87/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/pawan-87/DSA-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0525-contiguous-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0525-contiguous-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/pawan-87/DSA-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pawan-87/DSA-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/pawan-87/DSA-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
@@ -149,6 +150,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0525-contiguous-array) |
 | [0756-pyramid-transition-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pawan-87/DSA-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -374,6 +376,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0525-contiguous-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/pawan-87/DSA-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/pawan-87/DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/pawan-87/DSA-Solutions/tree/master/1895-largest-magic-square) |
