@@ -113,6 +113,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/pawan-87/DSA-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pawan-87/DSA-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/pawan-87/DSA-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/pawan-87/DSA-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -310,6 +311,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pawan-87/DSA-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/pawan-87/DSA-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/pawan-87/DSA-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/pawan-87/DSA-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -441,6 +443,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawan-87/DSA-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pawan-87/DSA-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/pawan-87/DSA-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
