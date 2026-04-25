@@ -101,6 +101,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1590-make-sum-divisible-by-p](https://github.com/pawan-87/DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pawan-87/DSA-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pawan-87/DSA-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pawan-87/DSA-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawan-87/DSA-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/pawan-87/DSA-Solutions/tree/master/1895-largest-magic-square) |
@@ -194,6 +195,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/pawan-87/DSA-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pawan-87/DSA-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/pawan-87/DSA-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/pawan-87/DSA-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/pawan-87/DSA-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -555,6 +557,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pawan-87/DSA-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pawan-87/DSA-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
