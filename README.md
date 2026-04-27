@@ -78,6 +78,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0435-non-overlapping-intervals](https://github.com/pawan-87/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/pawan-87/DSA-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0525-contiguous-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0525-contiguous-array) |
+| [0582-kill-process](https://github.com/pawan-87/DSA-Solutions/tree/master/0582-kill-process) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/pawan-87/DSA-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pawan-87/DSA-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/pawan-87/DSA-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
@@ -158,6 +159,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0525-contiguous-array) |
+| [0582-kill-process](https://github.com/pawan-87/DSA-Solutions/tree/master/0582-kill-process) |
 | [0756-pyramid-transition-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pawan-87/DSA-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -192,6 +194,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0207-course-schedule](https://github.com/pawan-87/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/0261-graph-valid-tree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/0366-find-leaves-of-binary-tree) |
+| [0582-kill-process](https://github.com/pawan-87/DSA-Solutions/tree/master/0582-kill-process) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pawan-87/DSA-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -209,6 +212,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | ------- |
 | [0207-course-schedule](https://github.com/pawan-87/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/0261-graph-valid-tree) |
+| [0582-kill-process](https://github.com/pawan-87/DSA-Solutions/tree/master/0582-kill-process) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pawan-87/DSA-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -474,6 +478,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [0366-find-leaves-of-binary-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/0366-find-leaves-of-binary-tree) |
+| [0582-kill-process](https://github.com/pawan-87/DSA-Solutions/tree/master/0582-kill-process) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pawan-87/DSA-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
