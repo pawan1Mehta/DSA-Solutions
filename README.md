@@ -160,6 +160,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/pawan-87/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0525-contiguous-array) |
 | [0582-kill-process](https://github.com/pawan-87/DSA-Solutions/tree/master/0582-kill-process) |
 | [0756-pyramid-transition-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/0756-pyramid-transition-matrix) |
@@ -277,6 +278,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0072-edit-distance](https://github.com/pawan-87/DSA-Solutions/tree/master/0072-edit-distance) |
 | [0316-remove-duplicate-letters](https://github.com/pawan-87/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pawan-87/DSA-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0424-longest-repeating-character-replacement](https://github.com/pawan-87/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/pawan-87/DSA-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0504-base-7](https://github.com/pawan-87/DSA-Solutions/tree/master/0504-base-7) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pawan-87/DSA-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -358,6 +360,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/pawan-87/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pawan-87/DSA-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pawan-87/DSA-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pawan-87/DSA-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
