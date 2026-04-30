@@ -154,6 +154,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3637-trionic-array-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3637-trionic-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/pawan-87/DSA-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
@@ -257,6 +258,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2625-increment-submatrices-by-one](https://github.com/pawan-87/DSA-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pawan-87/DSA-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -336,6 +338,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/pawan-87/DSA-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Greedy
 |  |
