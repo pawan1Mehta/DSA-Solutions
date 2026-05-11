@@ -121,6 +121,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pawan-87/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/pawan-87/DSA-Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2553-separate-the-digits-in-an-array](https://github.com/pawan-87/DSA-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pawan-87/DSA-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/pawan-87/DSA-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/pawan-87/DSA-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -271,6 +272,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2288-count-operations-to-obtain-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/pawan-87/DSA-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/pawan-87/DSA-Solutions/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/pawan-87/DSA-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
