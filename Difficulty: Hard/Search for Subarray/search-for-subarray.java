@@ -1,24 +1,21 @@
 class Solution {
     
-    int[] LPS(int[] arr) {
+    private int[] LPS(int[] arr) {
         int n = arr.length;
         
         int[] lps = new int[n];
         
-        lps[0] = 0;
-        
-        int idx = 1;
         int lpsLen = 0;
+        int i = 1;
         
-        while(idx < n) {
-            if(arr[idx] == arr[lpsLen]) {
-                lpsLen++;
-                lps[idx] = lpsLen;
-                idx++;
+        while(i < n) {
+            if(arr[i] == arr[lpsLen]) {
+                lps[i] = ++lpsLen;
+                i++;
             } else {
                 if(lpsLen == 0) {
-                    lps[idx] = 0;
-                    idx++;
+                    lps[i] = 0;
+                    i++;
                 } else {
                     lpsLen = lps[lpsLen - 1];
                 }
@@ -28,18 +25,17 @@ class Solution {
         return lps;
     }
     
-    ArrayList<Integer> KMP(int[] txt, int[] pattern) {
-        int n = txt.length;
-        int m = pattern.length;
+    public ArrayList<Integer> search(int[] a, int[] b) {
+        int n = a.length;
+        int m = b.length;
         
-        int[] lps = LPS(pattern);
+        int[] lps = LPS(b);
         
         ArrayList<Integer> res = new ArrayList<>();
-        
         int i = 0, j = 0;
         
         while((n - i) >= (m - j)) {
-            if(txt[i] == pattern[j]) {
+            if(a[i] == b[j]) {
                 i++;
                 j++;
             }
@@ -47,7 +43,7 @@ class Solution {
             if(j == m) {
                 res.add(i - j);
                 j = lps[j - 1];
-            } else if(i < n && txt[i] != pattern[j]) {
+            } else if(i < n && a[i] != b[j]) {
                 if(j == 0) {
                     i++;
                 } else {
@@ -57,9 +53,5 @@ class Solution {
         }
         
         return res;
-    }
-    
-    public ArrayList<Integer> search(int[] a, int[] b) {
-        return KMP(a, b);
     }
 }
