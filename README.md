@@ -294,6 +294,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1143-longest-common-subsequence](https://github.com/pawan-87/DSA-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1316-distinct-echo-substrings](https://github.com/pawan-87/DSA-Solutions/tree/master/1316-distinct-echo-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pawan-87/DSA-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pawan-87/DSA-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/pawan-87/DSA-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -601,5 +602,14 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Trie
 |  |
 | ------- |
+| [1316-distinct-echo-substrings](https://github.com/pawan-87/DSA-Solutions/tree/master/1316-distinct-echo-substrings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pawan-87/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Rolling Hash
+|  |
+| ------- |
+| [1316-distinct-echo-substrings](https://github.com/pawan-87/DSA-Solutions/tree/master/1316-distinct-echo-substrings) |
+## Hash Function
+|  |
+| ------- |
+| [1316-distinct-echo-substrings](https://github.com/pawan-87/DSA-Solutions/tree/master/1316-distinct-echo-substrings) |
 <!---LeetCode Topics End-->
