@@ -97,6 +97,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1262-greatest-sum-divisible-by-three](https://github.com/pawan-87/DSA-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pawan-87/DSA-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/pawan-87/DSA-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1345-jump-game-iv](https://github.com/pawan-87/DSA-Solutions/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/pawan-87/DSA-Solutions/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -175,6 +176,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0874-walking-robot-simulation](https://github.com/pawan-87/DSA-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1345-jump-game-iv](https://github.com/pawan-87/DSA-Solutions/tree/master/1345-jump-game-iv) |
 | [1590-make-sum-divisible-by-p](https://github.com/pawan-87/DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pawan-87/DSA-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/2402-meeting-rooms-iii) |
@@ -225,6 +227,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0582-kill-process](https://github.com/pawan-87/DSA-Solutions/tree/master/0582-kill-process) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pawan-87/DSA-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1345-jump-game-iv](https://github.com/pawan-87/DSA-Solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/pawan-87/DSA-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/pawan-87/DSA-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
