@@ -133,6 +133,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/pawan-87/DSA-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pawan-87/DSA-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pawan-87/DSA-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pawan-87/DSA-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -183,6 +184,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2402-meeting-rooms-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/pawan-87/DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pawan-87/DSA-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3488-closest-equal-element-queries](https://github.com/pawan-87/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pawan-87/DSA-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -316,6 +318,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2483-minimum-penalty-for-a-shop](https://github.com/pawan-87/DSA-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/pawan-87/DSA-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pawan-87/DSA-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pawan-87/DSA-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pawan-87/DSA-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/pawan-87/DSA-Solutions/tree/master/3606-coupon-code-validator) |
@@ -615,6 +618,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0208-implement-trie-prefix-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1316-distinct-echo-substrings](https://github.com/pawan-87/DSA-Solutions/tree/master/1316-distinct-echo-substrings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pawan-87/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pawan-87/DSA-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
