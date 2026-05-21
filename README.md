@@ -167,6 +167,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/pawan-87/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0525-contiguous-array) |
 | [0582-kill-process](https://github.com/pawan-87/DSA-Solutions/tree/master/0582-kill-process) |
@@ -288,6 +289,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/pawan-87/DSA-Solutions/tree/master/0072-edit-distance) |
+| [0208-implement-trie-prefix-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0316-remove-duplicate-letters](https://github.com/pawan-87/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pawan-87/DSA-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/pawan-87/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -550,6 +552,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/pawan-87/DSA-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2069-walking-robot-simulation-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Recursion
@@ -609,6 +612,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1316-distinct-echo-substrings](https://github.com/pawan-87/DSA-Solutions/tree/master/1316-distinct-echo-substrings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pawan-87/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Rolling Hash
