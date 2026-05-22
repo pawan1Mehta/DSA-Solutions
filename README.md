@@ -65,6 +65,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/pawan-87/DSA-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pawan-87/DSA-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pawan-87/DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -404,6 +405,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pawan-87/DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
