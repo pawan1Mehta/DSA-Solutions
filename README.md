@@ -292,6 +292,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/pawan-87/DSA-Solutions/tree/master/0072-edit-distance) |
+| [0093-restore-ip-addresses](https://github.com/pawan-87/DSA-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0208-implement-trie-prefix-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0316-remove-duplicate-letters](https://github.com/pawan-87/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pawan-87/DSA-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -543,6 +544,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | ------- |
 | [0078-subsets](https://github.com/pawan-87/DSA-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/pawan-87/DSA-Solutions/tree/master/0089-gray-code) |
+| [0093-restore-ip-addresses](https://github.com/pawan-87/DSA-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/pawan-87/DSA-Solutions/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pawan-87/DSA-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
