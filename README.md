@@ -202,6 +202,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3625-count-number-of-trapezoids-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3773-maximum-number-of-equal-length-runs](https://github.com/pawan-87/DSA-Solutions/tree/master/3773-maximum-number-of-equal-length-runs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/pawan-87/DSA-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Linked List
@@ -332,6 +333,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pawan-87/DSA-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/pawan-87/DSA-Solutions/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3773-maximum-number-of-equal-length-runs](https://github.com/pawan-87/DSA-Solutions/tree/master/3773-maximum-number-of-equal-length-runs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -487,6 +489,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pawan-87/DSA-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/pawan-87/DSA-Solutions/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3773-maximum-number-of-equal-length-runs](https://github.com/pawan-87/DSA-Solutions/tree/master/3773-maximum-number-of-equal-length-runs) |
 ## Enumeration
 |  |
 | ------- |
