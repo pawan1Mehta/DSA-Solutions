@@ -121,6 +121,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pawan-87/DSA-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/pawan-87/DSA-Solutions/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawan-87/DSA-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2219-maximum-sum-score-of-array](https://github.com/pawan-87/DSA-Solutions/tree/master/2219-maximum-sum-score-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pawan-87/DSA-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/2402-meeting-rooms-iii) |
@@ -444,6 +445,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1590-make-sum-divisible-by-p](https://github.com/pawan-87/DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1871-jump-game-vii](https://github.com/pawan-87/DSA-Solutions/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/pawan-87/DSA-Solutions/tree/master/1895-largest-magic-square) |
+| [2219-maximum-sum-score-of-array](https://github.com/pawan-87/DSA-Solutions/tree/master/2219-maximum-sum-score-of-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/pawan-87/DSA-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pawan-87/DSA-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/pawan-87/DSA-Solutions/tree/master/2625-increment-submatrices-by-one) |
