@@ -123,6 +123,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawan-87/DSA-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2219-maximum-sum-score-of-array](https://github.com/pawan-87/DSA-Solutions/tree/master/2219-maximum-sum-score-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pawan-87/DSA-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2291-maximum-profit-from-trading-stocks](https://github.com/pawan-87/DSA-Solutions/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -361,6 +362,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2054-two-best-non-overlapping-events](https://github.com/pawan-87/DSA-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pawan-87/DSA-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/pawan-87/DSA-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2291-maximum-profit-from-trading-stocks](https://github.com/pawan-87/DSA-Solutions/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/pawan-87/DSA-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
