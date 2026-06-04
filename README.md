@@ -35,6 +35,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3623-count-number-of-trapezoids-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/pawan-87/DSA-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -370,6 +371,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/pawan-87/DSA-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Greedy
 |  |
@@ -502,6 +504,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pawan-87/DSA-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3713-longest-balanced-substring-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sorting
 |  |
 | ------- |
