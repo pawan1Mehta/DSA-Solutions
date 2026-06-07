@@ -67,6 +67,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/pawan-87/DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/pawan-87/DSA-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pawan-87/DSA-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pawan-87/DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -508,6 +509,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/pawan-87/DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/pawan-87/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0759-set-intersection-size-at-least-two](https://github.com/pawan-87/DSA-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1200-minimum-absolute-difference](https://github.com/pawan-87/DSA-Solutions/tree/master/1200-minimum-absolute-difference) |
