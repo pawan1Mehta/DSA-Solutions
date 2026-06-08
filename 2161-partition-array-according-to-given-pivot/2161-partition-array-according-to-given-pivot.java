@@ -3,27 +3,20 @@ class Solution {
         int n = nums.length;
 
         int[] res = new int[n];
-        int indx = 0;
+        int lessI = 0, greaterI = n - 1;
 
-        // less than pivot
-        for(int i = 0; i < n; i++) {
+        for(int i = 0, j = n - 1; i < n; i++, j--) {
             if(nums[i] < pivot) {
-                res[indx++] = nums[i];
+                res[lessI++] = nums[i];
+            }
+            if(nums[j] > pivot) {
+                res[greaterI--] = nums[j];
             }
         }
 
-        // equal to pivot
-        for(int i = 0; i < n; i++) {
-            if(nums[i] == pivot) {
-                res[indx++] = nums[i];
-            }
-        }
-
-        // greater than pivot
-        for(int i = 0; i < n; i++) {
-            if(nums[i] > pivot) {
-                res[indx++] = nums[i];
-            }
+        while(lessI <= greaterI) {
+            res[lessI] = pivot;
+            lessI++;
         }
 
         return res;
