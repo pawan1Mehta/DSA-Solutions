@@ -170,6 +170,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3637-trionic-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -399,6 +400,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pawan-87/DSA-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pawan-87/DSA-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Sliding Window
