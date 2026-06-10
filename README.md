@@ -84,6 +84,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0435-non-overlapping-intervals](https://github.com/pawan-87/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/pawan-87/DSA-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0525-contiguous-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0525-contiguous-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0582-kill-process](https://github.com/pawan-87/DSA-Solutions/tree/master/0582-kill-process) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/pawan-87/DSA-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pawan-87/DSA-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -388,6 +389,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/pawan-87/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/pawan-87/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0759-set-intersection-size-at-least-two](https://github.com/pawan-87/DSA-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/pawan-87/DSA-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -486,6 +488,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0084-largest-rectangle-in-histogram](https://github.com/pawan-87/DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pawan-87/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/pawan-87/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/pawan-87/DSA-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2211-count-collisions-on-a-road](https://github.com/pawan-87/DSA-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -495,6 +498,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0084-largest-rectangle-in-histogram](https://github.com/pawan-87/DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pawan-87/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/pawan-87/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/pawan-87/DSA-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
@@ -521,6 +525,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | ------- |
 | [0056-merge-intervals](https://github.com/pawan-87/DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/pawan-87/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0759-set-intersection-size-at-least-two](https://github.com/pawan-87/DSA-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1200-minimum-absolute-difference](https://github.com/pawan-87/DSA-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/pawan-87/DSA-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -622,6 +627,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Two Pointers
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pawan-87/DSA-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawan-87/DSA-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pawan-87/DSA-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
