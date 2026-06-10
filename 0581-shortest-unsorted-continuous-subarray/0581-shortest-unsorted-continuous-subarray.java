@@ -2,22 +2,28 @@ class Solution {
     public int findUnsortedSubarray(int[] nums) {
         int n = nums.length;
 
-        int[] sortedArr = Arrays.copyOf(nums, n);
-        Arrays.sort(sortedArr);
+        Stack<Integer> st = new Stack<>();
 
-        int firstMismatchIdx = -1;
-        int lastMismatchIdx = -1;
-
+        int firstMismatchIdx = Integer.MAX_VALUE;
+        int lastMismatchIdx = Integer.MIN_VALUE;
+        
         for(int i = 0; i < n; i++) {
-            if(nums[i] != sortedArr[i]) {
-                if(firstMismatchIdx == -1) {
-                    firstMismatchIdx = i;
-                }
-                lastMismatchIdx = i;
+            while(!st.isEmpty() && nums[st.peek()] > nums[i]) {
+                firstMismatchIdx = Math.min(firstMismatchIdx, st.pop());
             }
+            st.push(i);
         }
 
-        if(firstMismatchIdx == -1 && lastMismatchIdx == -1) {
+        st.clear();
+
+        for(int i = n - 1; i >= 0; i--) {
+            while(!st.isEmpty() && nums[st.peek()] < nums[i]) {
+                lastMismatchIdx = Math.max(lastMismatchIdx, st.pop());
+            }
+            st.push(i);
+        }
+
+        if(firstMismatchIdx == Integer.MAX_VALUE && lastMismatchIdx == Integer.MIN_VALUE) {
             return 0;
         }
 
