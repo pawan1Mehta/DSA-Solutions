@@ -158,6 +158,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pawan-87/DSA-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/pawan-87/DSA-Solutions/tree/master/3531-count-covered-buildings) |
+| [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/pawan-87/DSA-Solutions/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/pawan-87/DSA-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pawan-87/DSA-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/pawan-87/DSA-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -404,6 +405,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3074-apple-redistribution-into-boxes](https://github.com/pawan-87/DSA-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pawan-87/DSA-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pawan-87/DSA-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/pawan-87/DSA-Solutions/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pawan-87/DSA-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -491,6 +493,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/pawan-87/DSA-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2211-count-collisions-on-a-road](https://github.com/pawan-87/DSA-Solutions/tree/master/2211-count-collisions-on-a-road) |
+| [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/pawan-87/DSA-Solutions/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -500,6 +503,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0316-remove-duplicate-letters](https://github.com/pawan-87/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/pawan-87/DSA-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/pawan-87/DSA-Solutions/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
 |  |
@@ -547,6 +551,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3075-maximize-happiness-of-selected-children](https://github.com/pawan-87/DSA-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/pawan-87/DSA-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/pawan-87/DSA-Solutions/tree/master/3531-count-covered-buildings) |
+| [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/pawan-87/DSA-Solutions/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pawan-87/DSA-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/pawan-87/DSA-Solutions/tree/master/3606-coupon-code-validator) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -632,6 +637,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawan-87/DSA-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pawan-87/DSA-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/pawan-87/DSA-Solutions/tree/master/2540-minimum-common-value) |
+| [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/pawan-87/DSA-Solutions/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Graph Theory
 |  |
