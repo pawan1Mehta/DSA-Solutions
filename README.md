@@ -221,6 +221,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Linked List
 |  |
 | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pawan-87/DSA-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pawan-87/DSA-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
 |  |
@@ -497,6 +498,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0316-remove-duplicate-letters](https://github.com/pawan-87/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/pawan-87/DSA-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pawan-87/DSA-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/pawan-87/DSA-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/pawan-87/DSA-Solutions/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -641,6 +643,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pawan-87/DSA-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawan-87/DSA-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pawan-87/DSA-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pawan-87/DSA-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/pawan-87/DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/pawan-87/DSA-Solutions/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
