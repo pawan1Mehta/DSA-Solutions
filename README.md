@@ -311,6 +311,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2553-separate-the-digits-in-an-array](https://github.com/pawan-87/DSA-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/pawan-87/DSA-Solutions/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/pawan-87/DSA-Solutions/tree/master/3433-count-mentions-per-user) |
+| [3612-process-string-with-special-operations-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
@@ -351,6 +352,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pawan-87/DSA-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pawan-87/DSA-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/pawan-87/DSA-Solutions/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3773-maximum-number-of-equal-length-runs](https://github.com/pawan-87/DSA-Solutions/tree/master/3773-maximum-number-of-equal-length-runs) |
 ## Dynamic Programming
