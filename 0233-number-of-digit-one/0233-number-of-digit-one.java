@@ -2,71 +2,68 @@ class Solution {
 
     private int[][][] dp;
 
-    private int solve(int pos, int count, int fp, int[] digits) {
-        if(pos == digits.length) {
+    private int solve(int i, int count, int tight, int[] digits) {
+        if(i == digits.length) {
             return count;
         }
 
-        if(dp[pos][count][fp] != -1) {
-            return dp[pos][count][fp];
+        if(dp[i][count][tight] != -1) {
+            return dp[i][count][tight];
         }
 
-        int limit;
-
-        if(fp == 0) {
-            limit = digits[pos];
-        } else {
-            limit = 9;
+        int limit = 9;
+        if(tight == 1) {
+            limit = digits[i];
         }
 
         int res = 0;
-
-        for(int digit = 0; digit <= limit; digit++) {
-            int newFp = fp;
+        
+        for(int num = 0; num <= limit; num++) {
             int newCount = count;
-
-            if(digit < limit) {
-                newFp = 1;
-            }
-
-            if(digit == 1) {
+            int newTight = 0;
+            
+            if(num == 1) {
                 newCount++;
             }
 
-            res += solve(pos + 1, newCount, newFp, digits);
+            if((tight == 1 && num == limit)) {
+                newTight = 1;
+            }
+
+            res += solve(i + 1, newCount, newTight, digits);
         }
 
-        return dp[pos][count][fp] = res;
+        return dp[i][count][tight] = res;
     }
 
     public int countDigitOne(int n) {
-        int[] digits = getDigits(n);
+        int[] digits = digits(n);
 
-        dp = new int[10][10][2];
+        int m = digits.length;
 
-        for(int i = 0; i < 10; i++) {
-            for(int j = 0; j < 10; j++) {
+        dp = new int[m + 1][m + 1][2];
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < m; j++) {
                 Arrays.fill(dp[i][j], -1);
             }
         }
 
-        return solve(0, 0, 0, digits);
+        return solve(0, 0, 1, digits);
     }
 
-    private int[] getDigits(int n) {
-        ArrayList<Integer> list = new ArrayList<>();
-
-        while(n > 0) {
-            int digit = n%10;
-            list.add(digit);
-            n = n/10;
+    private int[] digits(int num) {
+        ArrayList<Integer> digits = new ArrayList<>();
+        
+        while(num > 0) {
+            int d = num%10;
+            digits.add(d);
+            num = num/10;
         }
-
-        int[] digits = new int[list.size()];
-        for(int i = 0; i < digits.length; i++) {
-            digits[i] = list.get(list.size() - i - 1);
-        }
-
-        return digits;
+        
+        Collections.reverse(digits);
+        
+        return digits.stream()
+                        .mapToInt(Integer::intValue)
+                        .toArray();
     }
 }
