@@ -176,6 +176,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/pawan-87/DSA-Solutions/tree/master/3863-power-grid-maintenance) |
@@ -215,6 +216,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3625-count-number-of-trapezoids-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3773-maximum-number-of-equal-length-runs](https://github.com/pawan-87/DSA-Solutions/tree/master/3773-maximum-number-of-equal-length-runs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/pawan-87/DSA-Solutions/tree/master/3863-power-grid-maintenance) |
@@ -488,6 +490,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pawan-87/DSA-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Memoization
 |  |
@@ -525,6 +528,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pawan-87/DSA-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/pawan-87/DSA-Solutions/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3773-maximum-number-of-equal-length-runs](https://github.com/pawan-87/DSA-Solutions/tree/master/3773-maximum-number-of-equal-length-runs) |
 ## Enumeration
 |  |
@@ -640,6 +644,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1382-balance-a-binary-search-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -672,6 +677,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -702,4 +708,8 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/pawan-87/DSA-Solutions/tree/master/1316-distinct-echo-substrings) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
