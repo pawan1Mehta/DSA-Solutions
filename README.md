@@ -195,6 +195,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1345-jump-game-iv](https://github.com/pawan-87/DSA-Solutions/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pawan-87/DSA-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/pawan-87/DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/pawan-87/DSA-Solutions/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/pawan-87/DSA-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -333,6 +334,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1143-longest-common-subsequence](https://github.com/pawan-87/DSA-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1316-distinct-echo-substrings](https://github.com/pawan-87/DSA-Solutions/tree/master/1316-distinct-echo-substrings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pawan-87/DSA-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pawan-87/DSA-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pawan-87/DSA-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/pawan-87/DSA-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -425,6 +427,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/pawan-87/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pawan-87/DSA-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/pawan-87/DSA-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pawan-87/DSA-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pawan-87/DSA-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
