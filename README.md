@@ -91,6 +91,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pawan-87/DSA-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/pawan-87/DSA-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/0840-magic-squares-in-grid) |
+| [0867-transpose-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/pawan-87/DSA-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0907-sum-of-subarray-minimums](https://github.com/pawan-87/DSA-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/pawan-87/DSA-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -283,6 +284,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0221-maximal-square](https://github.com/pawan-87/DSA-Solutions/tree/master/0221-maximal-square) |
 | [0422-valid-word-square](https://github.com/pawan-87/DSA-Solutions/tree/master/0422-valid-word-square) |
 | [0840-magic-squares-in-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/0840-magic-squares-in-grid) |
+| [0867-transpose-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/pawan-87/DSA-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -301,6 +303,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/pawan-87/DSA-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pawan-87/DSA-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/pawan-87/DSA-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
