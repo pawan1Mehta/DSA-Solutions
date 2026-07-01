@@ -80,6 +80,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0221-maximal-square](https://github.com/pawan-87/DSA-Solutions/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/pawan-87/DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0311-sparse-matrix-multiplication](https://github.com/pawan-87/DSA-Solutions/tree/master/0311-sparse-matrix-multiplication) |
 | [0416-partition-equal-subset-sum](https://github.com/pawan-87/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0422-valid-word-square](https://github.com/pawan-87/DSA-Solutions/tree/master/0422-valid-word-square) |
 | [0435-non-overlapping-intervals](https://github.com/pawan-87/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -186,6 +187,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0311-sparse-matrix-multiplication](https://github.com/pawan-87/DSA-Solutions/tree/master/0311-sparse-matrix-multiplication) |
 | [0424-longest-repeating-character-replacement](https://github.com/pawan-87/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0525-contiguous-array) |
 | [0582-kill-process](https://github.com/pawan-87/DSA-Solutions/tree/master/0582-kill-process) |
@@ -282,6 +284,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | ------- |
 | [0085-maximal-rectangle](https://github.com/pawan-87/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/pawan-87/DSA-Solutions/tree/master/0221-maximal-square) |
+| [0311-sparse-matrix-multiplication](https://github.com/pawan-87/DSA-Solutions/tree/master/0311-sparse-matrix-multiplication) |
 | [0422-valid-word-square](https://github.com/pawan-87/DSA-Solutions/tree/master/0422-valid-word-square) |
 | [0840-magic-squares-in-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/0867-transpose-matrix) |
