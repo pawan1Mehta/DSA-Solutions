@@ -139,6 +139,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pawan-87/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/pawan-87/DSA-Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2540-minimum-common-value](https://github.com/pawan-87/DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pawan-87/DSA-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pawan-87/DSA-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -458,6 +459,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Ordered Set
 |  |
 | ------- |
+| [2519-count-the-number-of-k-big-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 | [3863-power-grid-maintenance](https://github.com/pawan-87/DSA-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -474,6 +476,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1970-last-day-where-you-can-still-cross](https://github.com/pawan-87/DSA-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/pawan-87/DSA-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawan-87/DSA-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2540-minimum-common-value](https://github.com/pawan-87/DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pawan-87/DSA-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3488-closest-equal-element-queries](https://github.com/pawan-87/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
@@ -656,6 +659,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0190-reverse-bits](https://github.com/pawan-87/DSA-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/pawan-87/DSA-Solutions/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -691,6 +695,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Segment Tree
 |  |
 | ------- |
+| [2519-count-the-number-of-k-big-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 | [3719-longest-balanced-subarray-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
@@ -727,5 +732,10 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Merge Sort
 |  |
 | ------- |
+| [2519-count-the-number-of-k-big-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2519-count-the-number-of-k-big-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 <!---LeetCode Topics End-->
