@@ -252,6 +252,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pawan-87/DSA-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/pawan-87/DSA-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/pawan-87/DSA-Solutions/tree/master/2092-find-all-people-with-secret) |
+| [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/pawan-87/DSA-Solutions/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/pawan-87/DSA-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/pawan-87/DSA-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -399,6 +400,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pawan-87/DSA-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/pawan-87/DSA-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/pawan-87/DSA-Solutions/tree/master/2291-maximum-profit-from-trading-stocks) |
+| [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/pawan-87/DSA-Solutions/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/pawan-87/DSA-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -600,6 +602,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1382-balance-a-binary-search-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/pawan-87/DSA-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/pawan-87/DSA-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/pawan-87/DSA-Solutions/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/pawan-87/DSA-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/pawan-87/DSA-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -642,6 +645,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/pawan-87/DSA-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/pawan-87/DSA-Solutions/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 ## Design
 |  |
 | ------- |
