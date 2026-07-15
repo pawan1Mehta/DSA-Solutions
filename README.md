@@ -22,6 +22,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1636-number-of-substrings-with-only-1s](https://github.com/pawan-87/DSA-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/pawan-87/DSA-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/pawan-87/DSA-Solutions/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pawan-87/DSA-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/pawan-87/DSA-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -203,6 +204,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1345-jump-game-iv](https://github.com/pawan-87/DSA-Solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pawan-87/DSA-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/pawan-87/DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/pawan-87/DSA-Solutions/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/pawan-87/DSA-Solutions/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/pawan-87/DSA-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pawan-87/DSA-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -355,6 +357,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pawan-87/DSA-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/pawan-87/DSA-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pawan-87/DSA-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/pawan-87/DSA-Solutions/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/pawan-87/DSA-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/pawan-87/DSA-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pawan-87/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -498,6 +501,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1590-make-sum-divisible-by-p](https://github.com/pawan-87/DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1871-jump-game-vii](https://github.com/pawan-87/DSA-Solutions/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/pawan-87/DSA-Solutions/tree/master/1895-largest-magic-square) |
+| [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/pawan-87/DSA-Solutions/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [2219-maximum-sum-score-of-array](https://github.com/pawan-87/DSA-Solutions/tree/master/2219-maximum-sum-score-of-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/pawan-87/DSA-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pawan-87/DSA-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -543,6 +547,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Counting
 |  |
 | ------- |
+| [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/pawan-87/DSA-Solutions/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pawan-87/DSA-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/pawan-87/DSA-Solutions/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3713-longest-balanced-substring-i) |
