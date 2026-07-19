@@ -26,6 +26,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pawan-87/DSA-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/pawan-87/DSA-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/pawan-87/DSA-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/pawan-87/DSA-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pawan-87/DSA-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pawan-87/DSA-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -138,6 +139,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/pawan-87/DSA-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pawan-87/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/pawan-87/DSA-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
@@ -409,6 +411,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2291-maximum-profit-from-trading-stocks](https://github.com/pawan-87/DSA-Solutions/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/pawan-87/DSA-Solutions/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/pawan-87/DSA-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2463-minimum-total-distance-traveled](https://github.com/pawan-87/DSA-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/pawan-87/DSA-Solutions/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -434,6 +437,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1975-maximum-matrix-sum](https://github.com/pawan-87/DSA-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/pawan-87/DSA-Solutions/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawan-87/DSA-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/pawan-87/DSA-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pawan-87/DSA-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/pawan-87/DSA-Solutions/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pawan-87/DSA-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -552,6 +556,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Number Theory
 |  |
 | ------- |
+| [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/pawan-87/DSA-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/pawan-87/DSA-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Counting
 |  |
