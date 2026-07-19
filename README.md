@@ -146,6 +146,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2618-maximize-the-minimum-powered-city](https://github.com/pawan-87/DSA-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/pawan-87/DSA-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/pawan-87/DSA-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/pawan-87/DSA-Solutions/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/pawan-87/DSA-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -407,6 +408,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/pawan-87/DSA-Solutions/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/pawan-87/DSA-Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/pawan-87/DSA-Solutions/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/pawan-87/DSA-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -431,6 +433,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2126-destroying-asteroids](https://github.com/pawan-87/DSA-Solutions/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawan-87/DSA-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pawan-87/DSA-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/pawan-87/DSA-Solutions/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pawan-87/DSA-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pawan-87/DSA-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pawan-87/DSA-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
