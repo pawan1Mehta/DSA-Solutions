@@ -176,6 +176,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/pawan-87/DSA-Solutions/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3616-number-of-student-replacements](https://github.com/pawan-87/DSA-Solutions/tree/master/3616-number-of-student-replacements) |
 | [3623-count-number-of-trapezoids-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -329,6 +330,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3379-transformed-array](https://github.com/pawan-87/DSA-Solutions/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/pawan-87/DSA-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3612-process-string-with-special-operations-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3616-number-of-student-replacements](https://github.com/pawan-87/DSA-Solutions/tree/master/3616-number-of-student-replacements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
