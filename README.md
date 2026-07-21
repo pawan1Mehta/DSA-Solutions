@@ -375,6 +375,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3121-count-the-number-of-special-characters-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pawan-87/DSA-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pawan-87/DSA-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3606-coupon-code-validator](https://github.com/pawan-87/DSA-Solutions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -574,6 +575,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1925-count-square-sum-triples](https://github.com/pawan-87/DSA-Solutions/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pawan-87/DSA-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sorting
