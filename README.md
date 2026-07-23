@@ -183,6 +183,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3625-count-number-of-trapezoids-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3637-trionic-array-i) |
+| [3641-longest-semi-repeating-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/3641-longest-semi-repeating-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -228,6 +229,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3641-longest-semi-repeating-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/3641-longest-semi-repeating-subarray) |
 | [3713-longest-balanced-substring-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -464,6 +466,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3641-longest-semi-repeating-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/3641-longest-semi-repeating-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
