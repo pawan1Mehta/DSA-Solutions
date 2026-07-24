@@ -159,6 +159,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3075-maximize-happiness-of-selected-children](https://github.com/pawan-87/DSA-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/pawan-87/DSA-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pawan-87/DSA-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3237-alt-and-tab-simulation](https://github.com/pawan-87/DSA-Solutions/tree/master/3237-alt-and-tab-simulation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/pawan-87/DSA-Solutions/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -218,6 +219,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pawan-87/DSA-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3237-alt-and-tab-simulation](https://github.com/pawan-87/DSA-Solutions/tree/master/3237-alt-and-tab-simulation) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3488-closest-equal-element-queries](https://github.com/pawan-87/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pawan-87/DSA-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -331,6 +333,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pawan-87/DSA-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3237-alt-and-tab-simulation](https://github.com/pawan-87/DSA-Solutions/tree/master/3237-alt-and-tab-simulation) |
 | [3379-transformed-array](https://github.com/pawan-87/DSA-Solutions/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/pawan-87/DSA-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3612-process-string-with-special-operations-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3612-process-string-with-special-operations-i) |
