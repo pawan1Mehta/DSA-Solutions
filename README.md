@@ -159,6 +159,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3074-apple-redistribution-into-boxes](https://github.com/pawan-87/DSA-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pawan-87/DSA-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/pawan-87/DSA-Solutions/tree/master/3093-longest-common-suffix-queries) |
+| [3183-the-number-of-ways-to-make-the-sum](https://github.com/pawan-87/DSA-Solutions/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pawan-87/DSA-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3237-alt-and-tab-simulation](https://github.com/pawan-87/DSA-Solutions/tree/master/3237-alt-and-tab-simulation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -424,6 +425,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2463-minimum-total-distance-traveled](https://github.com/pawan-87/DSA-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/pawan-87/DSA-Solutions/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3183-the-number-of-ways-to-make-the-sum](https://github.com/pawan-87/DSA-Solutions/tree/master/3183-the-number-of-ways-to-make-the-sum) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/pawan-87/DSA-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
