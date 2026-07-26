@@ -350,6 +350,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0093-restore-ip-addresses](https://github.com/pawan-87/DSA-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0208-implement-trie-prefix-tree](https://github.com/pawan-87/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0316-remove-duplicate-letters](https://github.com/pawan-87/DSA-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/pawan-87/DSA-Solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pawan-87/DSA-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/pawan-87/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/pawan-87/DSA-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -400,6 +401,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0300-longest-increasing-subsequence](https://github.com/pawan-87/DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/pawan-87/DSA-Solutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/pawan-87/DSA-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/pawan-87/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pawan-87/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/pawan-87/DSA-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -704,6 +706,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/pawan-87/DSA-Solutions/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pawan-87/DSA-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawan-87/DSA-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
