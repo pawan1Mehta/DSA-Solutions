@@ -386,6 +386,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pawan-87/DSA-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pawan-87/DSA-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/pawan-87/DSA-Solutions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -618,6 +619,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3074-apple-redistribution-into-boxes](https://github.com/pawan-87/DSA-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pawan-87/DSA-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/pawan-87/DSA-Solutions/tree/master/3433-count-mentions-per-user) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/pawan-87/DSA-Solutions/tree/master/3531-count-covered-buildings) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/pawan-87/DSA-Solutions/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pawan-87/DSA-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -779,4 +781,8 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [2519-count-the-number-of-k-big-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
