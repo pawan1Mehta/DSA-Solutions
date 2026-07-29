@@ -81,6 +81,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0163-missing-ranges](https://github.com/pawan-87/DSA-Solutions/tree/master/0163-missing-ranges) |
 | [0221-maximal-square](https://github.com/pawan-87/DSA-Solutions/tree/master/0221-maximal-square) |
+| [0259-3sum-smaller](https://github.com/pawan-87/DSA-Solutions/tree/master/0259-3sum-smaller) |
 | [0260-single-number-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/pawan-87/DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0311-sparse-matrix-multiplication](https://github.com/pawan-87/DSA-Solutions/tree/master/0311-sparse-matrix-multiplication) |
@@ -500,6 +501,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0033-search-in-rotated-sorted-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0259-3sum-smaller](https://github.com/pawan-87/DSA-Solutions/tree/master/0259-3sum-smaller) |
 | [0300-longest-increasing-subsequence](https://github.com/pawan-87/DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pawan-87/DSA-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/pawan-87/DSA-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -598,6 +600,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pawan-87/DSA-Solutions/tree/master/0056-merge-intervals) |
+| [0259-3sum-smaller](https://github.com/pawan-87/DSA-Solutions/tree/master/0259-3sum-smaller) |
 | [0435-non-overlapping-intervals](https://github.com/pawan-87/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0759-set-intersection-size-at-least-two](https://github.com/pawan-87/DSA-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
@@ -710,6 +713,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Two Pointers
 |  |
 | ------- |
+| [0259-3sum-smaller](https://github.com/pawan-87/DSA-Solutions/tree/master/0259-3sum-smaller) |
 | [0392-is-subsequence](https://github.com/pawan-87/DSA-Solutions/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pawan-87/DSA-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pawan-87/DSA-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
