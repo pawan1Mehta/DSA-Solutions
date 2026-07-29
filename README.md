@@ -79,6 +79,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0137-single-number-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawan-87/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0163-missing-ranges](https://github.com/pawan-87/DSA-Solutions/tree/master/0163-missing-ranges) |
 | [0221-maximal-square](https://github.com/pawan-87/DSA-Solutions/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/pawan-87/DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
