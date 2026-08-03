@@ -19,6 +19,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1015-smallest-integer-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pawan-87/DSA-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/pawan-87/DSA-Solutions/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pawan-87/DSA-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/pawan-87/DSA-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/pawan-87/DSA-Solutions/tree/master/1925-count-square-sum-triples) |
@@ -116,6 +117,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/pawan-87/DSA-Solutions/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/pawan-87/DSA-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/pawan-87/DSA-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -417,6 +419,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1143-longest-common-subsequence](https://github.com/pawan-87/DSA-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/pawan-87/DSA-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1406-stone-game-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/pawan-87/DSA-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/pawan-87/DSA-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -799,4 +802,5 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/pawan-87/DSA-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
