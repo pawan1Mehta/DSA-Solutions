@@ -388,6 +388,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/pawan-87/DSA-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pawan-87/DSA-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3088-make-string-anti-palindrome](https://github.com/pawan-87/DSA-Solutions/tree/master/3088-make-string-anti-palindrome) |
 | [3093-longest-common-suffix-queries](https://github.com/pawan-87/DSA-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pawan-87/DSA-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -465,6 +466,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/pawan-87/DSA-Solutions/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pawan-87/DSA-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pawan-87/DSA-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3088-make-string-anti-palindrome](https://github.com/pawan-87/DSA-Solutions/tree/master/3088-make-string-anti-palindrome) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pawan-87/DSA-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/pawan-87/DSA-Solutions/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/pawan-87/DSA-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -629,6 +631,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pawan-87/DSA-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pawan-87/DSA-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3088-make-string-anti-palindrome](https://github.com/pawan-87/DSA-Solutions/tree/master/3088-make-string-anti-palindrome) |
 | [3433-count-mentions-per-user](https://github.com/pawan-87/DSA-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/pawan-87/DSA-Solutions/tree/master/3531-count-covered-buildings) |
@@ -797,6 +800,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Counting Sort
 |  |
 | ------- |
+| [3088-make-string-anti-palindrome](https://github.com/pawan-87/DSA-Solutions/tree/master/3088-make-string-anti-palindrome) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
