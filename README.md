@@ -143,6 +143,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2219-maximum-sum-score-of-array](https://github.com/pawan-87/DSA-Solutions/tree/master/2219-maximum-sum-score-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pawan-87/DSA-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/pawan-87/DSA-Solutions/tree/master/2291-maximum-profit-from-trading-stocks) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -485,6 +486,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pawan-87/DSA-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pawan-87/DSA-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/pawan-87/DSA-Solutions/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pawan-87/DSA-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pawan-87/DSA-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -521,6 +523,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1970-last-day-where-you-can-still-cross](https://github.com/pawan-87/DSA-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/pawan-87/DSA-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pawan-87/DSA-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2540-minimum-common-value](https://github.com/pawan-87/DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pawan-87/DSA-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -543,6 +546,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1895-largest-magic-square](https://github.com/pawan-87/DSA-Solutions/tree/master/1895-largest-magic-square) |
 | [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/pawan-87/DSA-Solutions/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [2219-maximum-sum-score-of-array](https://github.com/pawan-87/DSA-Solutions/tree/master/2219-maximum-sum-score-of-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/pawan-87/DSA-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pawan-87/DSA-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/pawan-87/DSA-Solutions/tree/master/2625-increment-submatrices-by-one) |
