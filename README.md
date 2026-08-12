@@ -160,6 +160,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/pawan-87/DSA-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/pawan-87/DSA-Solutions/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pawan-87/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/pawan-87/DSA-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pawan-87/DSA-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -229,6 +230,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2402-meeting-rooms-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/pawan-87/DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pawan-87/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pawan-87/DSA-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pawan-87/DSA-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -493,6 +495,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/pawan-87/DSA-Solutions/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/pawan-87/DSA-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pawan-87/DSA-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pawan-87/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pawan-87/DSA-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
