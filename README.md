@@ -22,6 +22,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1406-stone-game-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pawan-87/DSA-Solutions/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pawan-87/DSA-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1563-stone-game-v](https://github.com/pawan-87/DSA-Solutions/tree/master/1563-stone-game-v) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/pawan-87/DSA-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/pawan-87/DSA-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -122,6 +123,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1406-stone-game-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/pawan-87/DSA-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/pawan-87/DSA-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1563-stone-game-v](https://github.com/pawan-87/DSA-Solutions/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/pawan-87/DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -433,6 +435,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1458-max-dot-product-of-two-subsequences](https://github.com/pawan-87/DSA-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/pawan-87/DSA-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/pawan-87/DSA-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/pawan-87/DSA-Solutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pawan-87/DSA-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pawan-87/DSA-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -825,6 +828,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [0877-stone-game](https://github.com/pawan-87/DSA-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pawan-87/DSA-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/pawan-87/DSA-Solutions/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
