@@ -24,6 +24,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pawan-87/DSA-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/pawan-87/DSA-Solutions/tree/master/1563-stone-game-v) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/pawan-87/DSA-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1872-stone-game-viii](https://github.com/pawan-87/DSA-Solutions/tree/master/1872-stone-game-viii) |
 | [1925-count-square-sum-triples](https://github.com/pawan-87/DSA-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/pawan-87/DSA-Solutions/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
@@ -131,6 +132,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pawan-87/DSA-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pawan-87/DSA-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pawan-87/DSA-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/pawan-87/DSA-Solutions/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pawan-87/DSA-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/pawan-87/DSA-Solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/pawan-87/DSA-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -444,6 +446,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pawan-87/DSA-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1871-jump-game-vii](https://github.com/pawan-87/DSA-Solutions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/pawan-87/DSA-Solutions/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pawan-87/DSA-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/pawan-87/DSA-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pawan-87/DSA-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -558,6 +561,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/pawan-87/DSA-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/pawan-87/DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1871-jump-game-vii](https://github.com/pawan-87/DSA-Solutions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/pawan-87/DSA-Solutions/tree/master/1872-stone-game-viii) |
 | [1895-largest-magic-square](https://github.com/pawan-87/DSA-Solutions/tree/master/1895-largest-magic-square) |
 | [2083-substrings-that-begin-and-end-with-the-same-letter](https://github.com/pawan-87/DSA-Solutions/tree/master/2083-substrings-that-begin-and-end-with-the-same-letter) |
 | [2219-maximum-sum-score-of-array](https://github.com/pawan-87/DSA-Solutions/tree/master/2219-maximum-sum-score-of-array) |
@@ -833,10 +837,12 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1406-stone-game-iii](https://github.com/pawan-87/DSA-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pawan-87/DSA-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pawan-87/DSA-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/pawan-87/DSA-Solutions/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/pawan-87/DSA-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/pawan-87/DSA-Solutions/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
@@ -849,4 +855,5 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/pawan-87/DSA-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/pawan-87/DSA-Solutions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
