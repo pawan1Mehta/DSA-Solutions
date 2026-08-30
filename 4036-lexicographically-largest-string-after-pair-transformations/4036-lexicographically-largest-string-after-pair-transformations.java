@@ -33,33 +33,3 @@ class Solution {
         return res;
     }
 }
-/**
-
-
-    aaaaa......
-    
-    1 -> a
-    2 -> b
-    4 -> c
-    5 -> ca
-    6 -> cb
-    8 -> d
-    16 -> e
-    32 -> f
-    64 -> g
-    ...
-
-
-    245897
-
-
-    aa aa aa aa
-     bbbb
-     cc
-     dd
-     e
-
-
-
-
- */
