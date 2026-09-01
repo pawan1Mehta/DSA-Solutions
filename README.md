@@ -71,6 +71,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pawan-87/DSA-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/pawan-87/DSA-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
 |  |
@@ -193,6 +194,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3555-smallest-subarray-to-sort-in-every-sliding-window](https://github.com/pawan-87/DSA-Solutions/tree/master/3555-smallest-subarray-to-sort-in-every-sliding-window) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/pawan-87/DSA-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pawan-87/DSA-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/pawan-87/DSA-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/pawan-87/DSA-Solutions/tree/master/3583-count-special-triplets) |
@@ -248,6 +250,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pawan-87/DSA-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/pawan-87/DSA-Solutions/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/pawan-87/DSA-Solutions/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/pawan-87/DSA-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/pawan-87/DSA-Solutions/tree/master/3606-coupon-code-validator) |
@@ -307,6 +310,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1970-last-day-where-you-can-still-cross](https://github.com/pawan-87/DSA-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/pawan-87/DSA-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3310-remove-methods-from-project](https://github.com/pawan-87/DSA-Solutions/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3863-power-grid-maintenance](https://github.com/pawan-87/DSA-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -344,6 +348,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2625-increment-submatrices-by-one](https://github.com/pawan-87/DSA-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pawan-87/DSA-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pawan-87/DSA-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/pawan-87/DSA-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
