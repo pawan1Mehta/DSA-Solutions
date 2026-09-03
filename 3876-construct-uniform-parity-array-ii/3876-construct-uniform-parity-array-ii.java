@@ -2,54 +2,11 @@ class Solution {
     public boolean uniformArray(int[] nums1) {
         int n = nums1.length;
 
-        boolean[] prefEven = new boolean[n];
-        int[] prefEvenSmallNum = new int[n];
-
-        boolean[] suffEven = new boolean[n];
-        int[] suffSmallEvenNum = new int[n];
-
         boolean[] prefOdd = new boolean[n];
         int[] prefOddSmallNum = new int[n];
 
         boolean[] suffOdd = new boolean[n];
         int[] suffOddSmallNum = new int[n];
-
-        for(int i = 0; i < n; i++) {
-            if(i == 0) {
-                if(nums1[i]%2 == 0) {
-                    prefEvenSmallNum[i] = nums1[i];
-                    prefEven[i] = true;
-                } else {
-                    prefEvenSmallNum[i] = Integer.MAX_VALUE;
-                }
-            } else {
-                if(nums1[i]%2 == 0) {
-                    prefEven[i] = true;
-                    prefEvenSmallNum[i] = Math.min(prefEvenSmallNum[i - 1], nums1[i]);
-                } else {
-                    prefEven[i] = prefEven[i - 1];
-                    prefEvenSmallNum[i] = prefEvenSmallNum[i - 1];
-                }
-            }
-        }
-        for(int i = n - 1; i >= 0; i--) {
-            if(i == n - 1) {
-                if(nums1[i]%2 == 0) {
-                    suffSmallEvenNum[i] = nums1[i];
-                    suffEven[i] = true;
-                } else {
-                    suffSmallEvenNum[i] = Integer.MAX_VALUE;
-                }
-            } else {
-                if(nums1[i]%2 == 0) {
-                    suffEven[i] = true;
-                    suffSmallEvenNum[i] = Math.min(suffSmallEvenNum[i + 1], nums1[i]);
-                } else {
-                    suffEven[i] = suffEven[i + 1];
-                    suffSmallEvenNum[i] = suffSmallEvenNum[i + 1];
-                }
-            }
-        }
 
         for(int i = 0; i < n; i++) {
             if(i == 0) {
