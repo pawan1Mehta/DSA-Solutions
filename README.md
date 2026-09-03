@@ -46,6 +46,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3676-smallest-number-with-all-set-bits](https://github.com/pawan-87/DSA-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pawan-87/DSA-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -216,6 +217,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pawan-87/DSA-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/pawan-87/DSA-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/pawan-87/DSA-Solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Hash Table
 |  |
