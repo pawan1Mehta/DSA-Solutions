@@ -12,4 +12,12 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3904-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/pawan1mehta/DSA-Solutions/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/pawan1mehta/DSA-Solutions/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
