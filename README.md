@@ -16,8 +16,10 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/pawan1mehta/DSA-Solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/pawan1mehta/DSA-Solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
